@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* common.css */
+
+/* Global styles */
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-image: url('bg2.png'); /* Add your image URL here */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Adjust height as needed */
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #ff0000;
+}
+
+#story {
+    margin: 20px;
+}
+
+nav {
+    margin-top: 20px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul li {
+    margin-left: 30px;
+}
+
+nav ul li a {
+    color: #ff0000;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Add any additional common styles here */
