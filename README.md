@@ -15,5 +15,5 @@ Implemented a full-fledged Web-based Society Security System for a streamlined a
 
 The folder "E-commerce in C based on CLI" contains the Command line Interface for E-commerce Application written in C.
 
-# Description
+## Description
 CLI application.
